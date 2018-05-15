@@ -7,7 +7,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class Contact.
  */
