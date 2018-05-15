@@ -32,7 +32,7 @@ public class User {
 	
 	/** The user role. */
 	@OneToMany(fetch = FetchType.EAGER, mappedBy = "user")
-	private Set<UserRole> userRole = new HashSet<UserRole>();
+	private Set<UserRole> userRole = new HashSet<>();
 
 	/**
 	 * Instantiates a new user.
