@@ -8,7 +8,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 import com.udemy.backendninja.component.RequestTimeInterceptor;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class WebMvcConfiguration.
  */

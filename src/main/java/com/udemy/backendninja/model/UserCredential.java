@@ -1,6 +1,5 @@
 package com.udemy.backendninja.model;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class UserCredential.
  */

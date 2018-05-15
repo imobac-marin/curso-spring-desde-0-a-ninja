@@ -1,7 +1,6 @@
 package com.udemy.backendninja.constant;
 
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class ViewConstant.
  */

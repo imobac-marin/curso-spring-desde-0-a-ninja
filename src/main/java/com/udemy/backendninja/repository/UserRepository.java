@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import com.udemy.backendninja.entity.User;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Interface UserRepository.
  */

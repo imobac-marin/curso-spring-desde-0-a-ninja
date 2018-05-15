@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import com.udemy.backendninja.entity.Contact;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Interface ContactRepository.
  */

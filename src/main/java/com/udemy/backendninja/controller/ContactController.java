@@ -20,7 +20,6 @@ import com.udemy.backendninja.constant.ViewConstant;
 import com.udemy.backendninja.model.ContactModel;
 import com.udemy.backendninja.services.ContactService;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class ContactController.
  */

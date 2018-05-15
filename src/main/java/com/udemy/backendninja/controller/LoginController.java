@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.udemy.backendninja.constant.ViewConstant;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class LoginController.
  */

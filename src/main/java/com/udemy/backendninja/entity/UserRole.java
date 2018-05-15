@@ -11,7 +11,6 @@ import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class UserRole.
  */

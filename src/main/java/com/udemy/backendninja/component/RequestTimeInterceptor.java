@@ -16,7 +16,6 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 import com.udemy.backendninja.repository.LogRepository;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class RequestTimeInterceptor.
  */
