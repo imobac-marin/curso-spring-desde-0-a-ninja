@@ -1,0 +1,20 @@
+server:
+  port: 6969
+#Se coloca 'spring.thymeleaf.mode: HTML' para evitar warning: "Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead."
+spring:
+  thymeleaf:
+    mode: HTML
+    cache: false
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        strategy: org.hibernate.cfg.ImprovedNamingStrategy
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb?useSSL=false
+    username: root
+    password: admin
